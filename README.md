@@ -1,5 +1,8 @@
 # Montagem e Configuração de Ambiente Virtual Educacional
 
+# Pesquisa de Componentes para Montagem do Computador
+
+<img src="
 
 
 # 4. Pesquisa de Sistemas Operacionais Gratuitos (Linux)
@@ -29,7 +32,18 @@ Sua outra opção era o sistema  CentOS, que em dezembro de 2020, a Red Hat anun
  <img src="https://files.cercomp.ufg.br/weby/up/1197/o/1_RJMxLdTHqVBSijKmOO5MAg.jpeg?1631307009" width="300">
  
 
- 
+## Facilidade de Uso para Fins Educacionais:
+
+**Interface Amigável**: O Ubuntu possui uma interface gráfica intuitiva, o que facilita a navegação e o uso para iniciantes.
+
+**Documentação e Recursos**: Há uma vasta quantidade de documentação e tutoriais disponíveis para aprender a usar o Ubuntu e os softwares mencionados, tornando-o ideal para estudantes.
+
+**Ambiente de Desenvolvimento**: O Ubuntu permite a instalação de diversas ferramentas de desenvolvimento e IDEs (como Visual Studio Code, PyCharm, etc.), que são úteis para aprendizado e prática.
+  
+         
+
+
+
  
  
 
